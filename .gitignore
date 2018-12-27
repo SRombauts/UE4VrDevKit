@@ -1,6 +1,8 @@
 Binaries
+Build/Android/src
 DerivedDataCache
 Intermediate
+Packages
 Saved
 .vscode
 .vs
@@ -12,3 +14,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.log
